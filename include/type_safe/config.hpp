@@ -42,7 +42,7 @@
 #        define TYPE_SAFE_DELETE_FUNCTIONS 0
 #    else
 /// \exclude
-#        define TYPE_SAFE_DELETE_FUNCTIONS 0
+#        define TYPE_SAFE_DELETE_FUNCTIONS 1
 #    endif
 #endif
 
